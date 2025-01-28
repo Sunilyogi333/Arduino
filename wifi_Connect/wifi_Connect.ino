@@ -21,4 +21,6 @@ void setup() {
 
 void loop() {
   // Optional: Use the loop for other tasks
+  Serial.println("hello world");
+  delay(1000);
 }
